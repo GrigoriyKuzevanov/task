@@ -154,7 +154,9 @@ reviewer_2.rate_st(student_2, 'Git', 8)
 reviewer_2.rate_st(student_2, 'Git', 6)
 
 print(student_1 < student_2)
+print(student_1 <= student_2)
 print(lecturer_1 < lecturer_2)
+print(lecturer_1 <= lecturer_2)
 
 print()
 print('Студенты: ')
